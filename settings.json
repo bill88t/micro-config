@@ -1,0 +1,10 @@
+{
+    "autosu": true,
+    "rmtrailingws": true,
+    "savecursor": true,
+    "saveundo": true,
+    "scrollbar": true,
+    "scrollspeed": 3,
+    "softwrap": true,
+    "tabstospaces": true
+}
