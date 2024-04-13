@@ -1,6 +1,7 @@
 {
     "autoclose": false,
     "autosu": true,
+    "colorscheme": "gotham",
     "ft:makefile": {
         "tabstospaces": false
     },
@@ -10,6 +11,5 @@
     "scrollbar": true,
     "scrollspeed": 3,
     "softwrap": true,
-    "tabstospaces": true,
-    "colorscheme": "gotham"
+    "tabstospaces": true
 }
