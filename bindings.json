@@ -10,5 +10,6 @@
     "Ctrl-n": "command:term",
     "CtrlSpace": "command:lspcompletion",
     "CtrlUnderscore": "lua:comment.comment",
+    "F4": "command:jumptag",
     "F5": "lua:wc.wordCount"
 }
