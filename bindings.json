@@ -1,8 +1,14 @@
 {
     "Alt-/": "lua:comment.comment",
+    "Alt-d": "command:definition",
+    "Alt-f": "command:format",
+    "Alt-k": "command:hover",
+    "Alt-r": "command:references",
     "Ctrl-Down": "SpawnMultiCursorDown",
     "Ctrl-Up": "SpawnMultiCursorUp",
     "Ctrl-g": "command-edit:goto",
-    "F5": "lua:wc.wordCount",
     "Ctrl-n": "command:term",
+    "CtrlSpace": "command:lspcompletion",
+    "CtrlUnderscore": "lua:comment.comment",
+    "F5": "lua:wc.wordCount"
 }
