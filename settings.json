@@ -10,5 +10,6 @@
     "scrollbar": true,
     "scrollspeed": 3,
     "softwrap": true,
-    "tabstospaces": true
+    "tabstospaces": true,
+    "colorscheme": "gotham"
 }
