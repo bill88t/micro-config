@@ -1,7 +1,8 @@
 {
     "Alt-/": "lua:comment.comment",
-    "CtrlUnderscore": "lua:comment.comment",
-    "Ctrl-g": "command-edit:goto",
-    "Ctrl-Up": "SpawnMultiCursorUp",
     "Ctrl-Down": "SpawnMultiCursorDown",
+    "Ctrl-Up": "SpawnMultiCursorUp",
+    "Ctrl-g": "command-edit:goto",
+    "F5": "lua:wc.wordCount",
+    "Ctrl-n": "command:term",
 }
