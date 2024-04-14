@@ -1,1 +1,1 @@
-chmod -w bindings.json settings.json
+chmod -w bindings.json settings.json || true

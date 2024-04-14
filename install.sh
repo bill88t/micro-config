@@ -1,4 +1,5 @@
 mkdir ~/.config/micro || true
+./rw.sh
 rm ~/.config/micro/bindings.json || true
 rm ~/.config/micro/settings.json || true
 ln -s ~/git/micro-config/bindings.json ~/.config/micro/bindings.json
