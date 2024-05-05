@@ -5,5 +5,7 @@
     "Ctrl-g": "command-edit:goto",
     "Ctrl-n": "command:term",
     "F4": "command:jumptag",
-    "F5": "lua:wc.wordCount"
+    "F5": "lua:wc.wordCount",
+    "AltShiftUp": "SelectToStart",
+    "AltShiftDown": "SelectToEnd"
 }
