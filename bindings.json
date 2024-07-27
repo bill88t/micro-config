@@ -7,5 +7,7 @@
     "F4": "command:jumptag",
     "F5": "lua:wc.wordCount",
     "AltShiftUp": "SelectToStart",
-    "AltShiftDown": "SelectToEnd"
+    "AltShiftDown": "SelectToEnd",
+    "Tab": "Autocomplete|lua:aspell.acceptsug|IndentSelection|InsertTab",
+    "F6": "lua:aspell.addpersonal",
 }

@@ -11,5 +11,15 @@
     "scrollbar": true,
     "scrollspeed": 3,
     "softwrap": true,
-    "tabstospaces": true
+    "tabstospaces": true,
+    "aspell.check": "off",
+    "*.txt": {
+        "aspell.check": "on"
+    },
+    "ft:markdown": {
+        "aspell.check": "on"
+    },
+    "ft:unknown": {
+        "aspell.check": "on"
+    }
 }
