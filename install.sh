@@ -8,3 +8,5 @@ chmod +x ro.sh rw.sh
 ./ro.sh
 micro -plugin install wc filemanager jump gotham-colors aspell
 micro -plugin update
+
+echo -e '\n --- Install "aspell aspell-en aspell-el fzf ctags" ---'
