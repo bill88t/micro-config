@@ -13,6 +13,7 @@
     "softwrap": true,
     "tabstospaces": true,
     "aspell.check": "off",
+    "aspell.sugmode": "ultra",
     "*.txt": {
         "aspell.check": "on"
     },
