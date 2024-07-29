@@ -12,6 +12,7 @@
     "scrollspeed": 3,
     "softwrap": true,
     "tabstospaces": true,
+    "wordwrap": true,
     "aspell.check": "off",
     "aspell.sugmode": "ultra",
     "*.txt": {

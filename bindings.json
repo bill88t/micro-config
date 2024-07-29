@@ -8,6 +8,7 @@
     "F5": "lua:wc.wordCount",
     "AltShiftUp": "SelectToStart",
     "AltShiftDown": "SelectToEnd",
+    "Ctrl-l": "FindNext",
     "Tab": "Autocomplete|lua:aspell.acceptsug|IndentSelection|InsertTab",
     "F6": "lua:aspell.addpersonal",
 }
