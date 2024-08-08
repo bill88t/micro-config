@@ -14,7 +14,7 @@
     "tabstospaces": true,
     "wordwrap": true,
     "aspell.check": "off",
-    "aspell.sugmode": "ultra",
+    "aspell.sugmode": "normal",
     "*.txt": {
         "aspell.check": "on"
     },
