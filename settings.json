@@ -1,7 +1,7 @@
 {
     "autoclose": false,
     "autosu": true,
-    "colorscheme": "gotham",
+    "colorscheme": "twilight",
     "ft:makefile": {
         "tabstospaces": false
     },

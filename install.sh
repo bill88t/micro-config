@@ -12,7 +12,7 @@ ln -s ~/.config/micro/buffers ~/.config/microfast/buffers
 ln -s ~/.config/micro/plug ~/.config/microfast/plug
 chmod +x ro.sh rw.sh
 ./ro.sh
-micro -plugin install wc filemanager jump gotham-colors aspell
+micro -plugin install wc filemanager jump aspell
 micro -plugin update
 
 echo -e '\n --- Install "aspell aspell-en aspell-el fzf ctags" ---'
