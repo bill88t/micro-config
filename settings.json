@@ -1,7 +1,7 @@
 {
     "autoclose": false,
     "autosu": true,
-    "colorscheme": "twilight",
+    "colorscheme": "twilighter",
     "ft:makefile": {
         "tabstospaces": false
     },
